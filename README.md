@@ -46,7 +46,7 @@
 ---
 
 ### 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourlinkedin/](https://www.linkedin.com/in/poovarasan-h-%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93-5564b52b6/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourlinkedin/](www.linkedin.com/in/poovarasan-h-🧑🏻‍🎓-5564b52b6))  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/poova1612/)  
 
 ---
