@@ -1,10 +1,8 @@
 # 💫 Hi, I'm Poovarasan H! 
-### Full-Stack Developer | Java | Spring Boot | React | Python
+### Full-Stack Developer | Java | JSP | MySQL | Servlet | HTML/CSS | Spring Framework | React | MongoDB
 
 🚀 Passionate about building scalable applications & solving real-world problems  
 🎓 M.Sc. Computer Science Graduate from University of Madras  
-🌱 Currently learning **Microservices, Docker, and Kubernetes**  
-📝 Preparing for **Zoho & TCS interviews**  
 
 ---
 
