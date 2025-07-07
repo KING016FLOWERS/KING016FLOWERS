@@ -1,54 +1,57 @@
-## 🌟 Hi, I'm Poovarasan H! 👋  
+# 💫 Hi, I'm Poovarasan H! 
+### Full-Stack Developer | Java | Spring Boot | React | Python
 
-🚀 Full-Stack Developer | Java | Python | MySQL | React | Spring Boot  
-
-### 📌 About Me  
-- 🎓 M.Sc. Computer Science Graduate from the University of Madras, Guindy Campus  
-- 💡 Passionate about building scalable applications & solving real-world problems  
-- 🔥 Currently learning **Spring Boot, Microservices, Docker, and Kubernetes**  
-- � Preparing for **Zoho & TCS interviews**  
+🚀 Passionate about building scalable applications & solving real-world problems  
+🎓 M.Sc. Computer Science Graduate from University of Madras  
+🌱 Currently learning **Microservices, Docker, and Kubernetes**  
+📝 Preparing for **Zoho & TCS interviews**  
 
 ---
 
-### 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
-#### **🚀 Programming Languages**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+### **Programming Languages**
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-#### **🛠️ Backend Development**  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+### **Frameworks & Libraries**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-#### **🎨 Frontend Development**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-
-#### **💾 Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-
-#### **🚀 DevOps & Tools**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+### **Databases & Tools**
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats  
-![Poovarasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KING016FLOWERS&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KING016FLOWERS&layout=compact&theme=tokyonight)  
+## 📊 GitHub Analytics
 
-### 🏆 LeetCode Stats  
-![LeetCode Stats](https://leetcard.jacoblin.cool/poova1612?theme=dark&font=Abel&ext=contest)  
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KING016FLOWERS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KING016FLOWERS&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KING016FLOWERS&theme=tokyonight" alt="KING016FLOWERS" />
+</div>
+
+## 🏆 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/poova1612/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/poova1612?theme=dark&font=Abel&ext=contest)
 
 ---
 
-### 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourlinkedin/](www.linkedin.com/in/poovarasan-h-🧑🏻‍🎓-5564b52b6))  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/poova1612/)  
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/poovarasan-h-🧑🏻‍🎓-5564b52b6)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 
 ---
 
-⚡ **“Code, Learn, Build, Repeat.”** 🚀  
+✨ **"First, solve the problem. Then, write the code."** - John Johnson  
+🔥 **"Code is like humor. When you have to explain it, it's bad."** - Cory House
