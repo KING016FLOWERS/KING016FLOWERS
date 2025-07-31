@@ -2,7 +2,7 @@
 ### Full-Stack Developer | Java | JSP | MySQL | Servlet | HTML/CSS | Spring Framework | React | MongoDB
 
 🚀 Passionate about building scalable applications & solving real-world problems  
-🎓 M.Sc. Computer Science Graduate from University of Madras  
+🎓 M.Sc. Computer Science Graduated from University of Madras  
 
 ---
 
