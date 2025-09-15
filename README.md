@@ -47,8 +47,8 @@
 
 ## 🏆 Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/poova1612/)
-![LeetCode Stats](https://leetcard.jacoblin.cool/poova1612?theme=dark&font=Abel&ext=contest)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/FLOWERKING1612HP/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/FLOWERKING1612HP?theme=dark&font=Abel&ext=contest)
 
 ---
 
